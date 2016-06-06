@@ -1,0 +1,61 @@
+@font-face {
+    font-family:iMonoFont;
+    src:url("AnonymousPro.ttf") format("truetype");
+}
+#iCanvas {
+    visibility:hidden;
+}
+.a {
+    display:inline-block;
+    height:1.5em;
+}
+.p {
+    word-break:break-all;
+    word-wrap:break-word;
+    white-space:pre;
+}
+.iMono {
+    font-family:iMonoFont,monospace;
+}
+.iSurface {
+    position:relative;
+    overflow:hidden;
+    left:0px;
+    top:0px;
+    right:0px;
+    margin:0px;
+    padding:0px;
+    line-height:1.5em;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;  
+}
+.iCoin {
+    position:absolute;
+    z-index:125;
+}
+.iSpaceShip {
+    position:absolute;
+    z-index:150;
+}
+.iBody {
+    position:absolute;
+    z-index:100;
+}
+.iBackground  {
+    position:absolute;
+    z-index:10;
+}
+.iBackground0 {
+    font-size:8px;
+}
+.iBackground1 {
+    font-size:8px;
+}
+.iBackground2 {
+    font-size:11px;
+}
+.iBackground3 {
+    font-size:11px;
+}

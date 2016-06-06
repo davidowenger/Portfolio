@@ -1,0 +1,130 @@
+body {
+  margin:0px;
+  padding:0px;
+}
+table {
+    border:0px;
+    border-collapse:collapse;
+}
+td {
+    margin:0px;
+    padding:0px;
+}
+.max-w1B1 {
+  max-width:100%;
+}
+.w1B4 {
+  width:25%;
+}
+.w1B3 {
+  width:33%;
+}
+.w1B2 {
+  width:50%;
+}
+.w1B1 {
+  width:100%;
+}
+.w3B2 {
+  width:150%;
+}
+.w2B1 {
+  width:200%;
+}
+.h1B4 {
+  height:25%;
+}
+.h1B3 {
+  height:33%;
+}
+.h1B2 {
+  height:50%;
+}
+.h1B1 {
+  height:100%;
+}
+.h3B4 {
+  height:75%;
+}
+.h3B2 {
+  height:150%;
+}
+.h2B1 {
+  height:200%;
+}
+.s3B2 {
+  font-size:1.5em;
+  line-height:1em;
+}
+.s2B1 {
+  font-size:2em;
+  line-height:1em;
+}
+.s3B1 {
+  font-size:3em;
+  line-height:1em;
+}
+.lumn {
+  clear:left;
+  float:left;
+}
+.rlumn {
+  clear:right;
+  float:right;
+}
+.lum {
+  clear:none;
+  float:left;
+}
+.rlum {
+  clear:none;
+  float:right;
+}
+.clear {
+  clear:both;
+}
+.iTable {
+    display:table;
+}
+.iRow {
+    display:table-row;
+}
+.iCell {
+    display:table-cell;
+}
+.iCenter {
+  text-align:center;
+}
+.iRight {
+  text-align:right;
+}
+.iMiddle {
+  vertical-align:middle;
+}
+.iBottom {
+  vertical-align:bottom;
+} 
+.iFixed {
+  position:fixed;
+}
+.iAbsolute {
+  position:absolute;
+}
+.iRelative {
+  position:relative;
+}
+.iOverNo {
+  overflow:hidden;    
+}
+.z1 {
+    z-index:-1;
+}
+.z2 {
+    z-index:1;
+}
+.z3 {
+    z-index:100;
+}
+.z4 {
+    z-index:1000;
+}
